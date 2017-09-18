@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPattern": "/api/users/login",
+    "headers" : {
+      "Authorization" : {
+        "absent" : true
+      }
+    }
+  },
+  "response": {
+    "status": 201,
+    "jsonBody": {
+      "token": "mocktoken",
+      "issuedAt": 1502363071086,
+      "expiration": 1502370271086,
+      "refreshToken": "refreshToken",
+      "refreshExpiration": 1502375071086
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

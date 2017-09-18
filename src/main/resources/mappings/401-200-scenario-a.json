@@ -1,0 +1,23 @@
+{
+  "scenarioName": "401-200",
+  "requiredScenarioState": "Started",
+  "newScenarioState": "Rejected",
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/v2/prisoners\\?lastName=surnamec"
+  },
+  "response": {
+    "status": 401,
+    "jsonBody": {
+      "timestamp": 1502363478949,
+      "status": 401,
+      "error": "Unauthorized",
+      "message": "Access Denied",
+      "path": "/api/v2/prisoners"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

@@ -1,0 +1,32 @@
+plugins {
+    id 'com.github.johnrengelman.shadow' version '2.0.1'
+    id 'java'
+    id 'application'
+}
+
+description = 'Mock rest apis for HPA'
+
+mainClassName = "com.github.tomakehurst.wiremock.standalone.WireMockServerRunner"
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    compile 'com.github.tomakehurst:wiremock-standalone:2.7.1'
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.1'
+}
+
+run {
+    args '--root-dir=src/main/resources --port=9090'.split()
+}
+
+// For Heroku deployment
+task stage(dependsOn: ['build', 'clean'])
+build.mustRunAfter clean
