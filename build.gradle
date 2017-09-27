@@ -24,7 +24,7 @@ task wrapper(type: Wrapper) {
 }
 
 run {
-    args '--root-dir=src/main/resources --port=9090'.split()
+    args '--root-dir=src/main/resources --port=9090 --verbose'.split()
 }
 
 // For Heroku deployment
