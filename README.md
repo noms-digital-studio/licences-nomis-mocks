@@ -3,7 +3,7 @@
 # To build and run the fat JAR
 ```
 ./gradlew clean shadowJar
-java -jar build/libs/licence-mocks-all.jar --root-dir src/main/resources --port 9090
+java -jar build/libs/licences-mocks-all.jar --root-dir src/main/resources --port 9090
 ```
 
 # To run via Gradle
