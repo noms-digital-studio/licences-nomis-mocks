@@ -1,4 +1,7 @@
-# Licences Mocks
+# Licences Nomis Mocks
+
+Mocks of Nomis APIs used by the Licences project
+
 
 # To build and run the fat JAR
 ```
