@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'licences-mocks'
+rootProject.name = 'licences-nomis-mocks'
