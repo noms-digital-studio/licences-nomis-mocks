@@ -4,7 +4,7 @@ plugins {
     id 'application'
 }
 
-description = 'Mock rest apis for Licences'
+description = 'Mock rest apis for Nomis'
 
 mainClassName = "com.github.tomakehurst.wiremock.standalone.WireMockServerRunner"
 

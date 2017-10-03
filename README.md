@@ -6,7 +6,7 @@ Mocks of Nomis APIs used by the Licences project
 # To build and run the fat JAR
 ```
 ./gradlew clean shadowJar
-java -jar build/libs/licences-mocks-all.jar --root-dir src/main/resources --port 9090
+java -jar build/libs/licences-nomis-mocks-all.jar --root-dir src/main/resources --port 9090
 ```
 
 # To run via Gradle
