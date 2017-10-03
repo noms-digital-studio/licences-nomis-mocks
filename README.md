@@ -2,6 +2,7 @@
 
 Mocks of Nomis APIs used by the Licences project
 
+Push to master for auto-deploy via Heroku, see https://dashboard.heroku.com/apps/licences-nomis-mocks
 
 # To build and run the fat JAR
 ```
