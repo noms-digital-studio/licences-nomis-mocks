@@ -4,7 +4,7 @@
     "urlPattern": "/api/users/me"
   },
   "response": {
-    "status": 201,
+    "status": 200,
     "jsonBody": {
       "firstName": "staff",
       "lastName": "user",
