@@ -1,0 +1,20 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/users/me"
+  },
+  "response": {
+    "status": 201,
+    "jsonBody": {
+      "firstName": "staff",
+      "lastName": "user",
+      "staffId": "1",
+      "email": "staff.user@work",
+      "activeCaseLoadId": "ABC"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
