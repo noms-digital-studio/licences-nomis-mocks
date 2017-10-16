@@ -1,0 +1,50 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/v2/locations/1"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "locationId": 1,
+      "locationType": "some type",
+      "description": "some description",
+      "agencyId": "spme ID",
+      "parentLocationId": 0,
+      "currentOccupancy": 0,
+      "locationPrefix": "some prefix",
+      "level": 0,
+      "listSequence": 0,
+      "assignedInmates": [
+        {
+          "bookingId": 1,
+          "bookingNo": "123",
+          "offenderNo": "A1235HG",
+          "firstName": "Mark",
+          "middleName": "",
+          "lastName": "Andrews",
+          "dateOfBirth": "1989-10-22",
+          "age": 28,
+          "alertsCodes": [
+            "string"
+          ],
+          "agencyId": "string",
+          "assignedLivingUnitId": 1,
+          "assignedLivingUnitDesc": "some description",
+          "facialImageId": 1,
+          "assignedOfficerUserId": "string",
+          "aliases": [
+            "string"
+          ],
+          "iepLevel": "string"
+        }
+      ],
+      "operationalCapacity": 0,
+      "livingUnit": true,
+      "housingUnitType": 0,
+      "activeCountStatusCode": "I",
+      "activeCountId": 0
+    }
+  }
+}
+

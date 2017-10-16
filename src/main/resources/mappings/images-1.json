@@ -1,0 +1,19 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/v2/images/1"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "imageId": 1,
+      "captureDate": "2017-10-16",
+      "imageView": "view",
+      "imageOrientation": "orientation",
+      "imageType": "type",
+      "objectId": 0,
+      "imageData": "data"
+    }
+  }
+}
+

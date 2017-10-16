@@ -1,0 +1,36 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/v2/bookings/1/sentenceDetail"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "bookingId": 1,
+      "sentenceStartDate": "2017-10-13",
+      "additionalDaysAwarded": 0,
+      "sentenceExpiryDate": "2017-10-13",
+      "automaticReleaseDate": "2017-10-13",
+      "automaticReleaseOverrideDate": "2017-10-13",
+      "conditionalReleaseDate": "2017-12-13",
+      "conditionalReleaseOverrideDate": "2017-10-13",
+      "nonParoleDate": "2017-10-13",
+      "nonParoleOverrideDate": "2017-10-13",
+      "postRecallReleaseDate": "2017-10-13",
+      "postRecallReleaseOverrideDate": "2017-10-13",
+      "nonDtoReleaseDate": "2017-10-13",
+      "nonDtoReleaseDateType": "ARD",
+      "licenceExpiryDate": "2017-10-13",
+      "homeDetentionCurfewEligibilityDate": "2017-10-13",
+      "paroleEligibilityDate": "2017-10-13",
+      "homeDetentionCurfewApprovedDate": "2017-10-13",
+      "approvedParoleDate": "2017-10-13",
+      "releaseOnTemporaryLicenceDate": "2017-10-13",
+      "earlyReleaseSchemeEligibilityDate": "2017-10-13",
+      "earlyTermDate": "2017-10-13",
+      "midTermDate": "2017-10-13",
+      "lateTermDate": "2017-10-13"
+    }
+  }
+}
+
