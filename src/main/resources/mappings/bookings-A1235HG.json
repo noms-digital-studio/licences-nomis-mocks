@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/api/v2/bookings\\?offenderNo=A1235HG"
+    "urlPattern": "/api/v2/bookings\\?query=offenderNo%3Aeq%3AA1235HG"
   },
   "response": {
     "status": 200,
@@ -20,11 +20,11 @@
         ],
         "agencyId": "string",
         "assignedLivingUnitId": 1,
-        "assignedLivingUnitDesc": "sad|dsfasd|dsfsa",
+        "assignedLivingUnitDesc": "HB1 | L2 | Cell 3",
         "facialImageId": 1,
         "assignedOfficerUserId": "string",
         "aliases": [
-          "string"
+          "Marky Mark"
         ],
         "iepLevel": "string"
       }

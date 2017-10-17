@@ -1,0 +1,68 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/v2/bookings/1"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "bookingId": 0,
+      "bookingNo": "string",
+      "offenderNo": "string",
+      "firstName": "string",
+      "middleName": "string",
+      "lastName": "string",
+      "alertsCodes": [
+        "string"
+      ],
+      "assignedLivingUnit": {
+        "agencyId": "string",
+        "locationId": 0,
+        "description": "string",
+        "agencyName": "string"
+      },
+      "facialImageId": 0,
+      "dateOfBirth": "2017-10-17",
+      "age": 0,
+      "physicalAttributes": {
+        "gender": "string",
+        "ethnicity": "string",
+        "heightFeet": 0,
+        "heightInches": 0,
+        "heightMetres": 0,
+        "heightCentimetres": 0,
+        "weightPounds": 0,
+        "weightKilograms": 0
+      },
+      "physicalCharacteristics": [
+        {
+          "characteristic": "string",
+          "detail": "string",
+          "imageId": 0
+        }
+      ],
+      "physicalMarks": [
+        {
+          "type": "string",
+          "side": "string",
+          "bodyPart": "string",
+          "orientation": "string",
+          "comment": "string",
+          "imageId": 0
+        }
+      ],
+      "assessments": [
+        {
+          "classification": "string",
+          "assessmentCode": "string",
+          "assessmentDesc": "string"
+        }
+      ],
+      "assignedOfficerId": 0
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
