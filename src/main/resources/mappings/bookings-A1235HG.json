@@ -20,7 +20,7 @@
         ],
         "agencyId": "string",
         "assignedLivingUnitId": 1,
-        "assignedLivingUnitDesc": "some facility",
+        "assignedLivingUnitDesc": "sad|dsfasd|dsfsa",
         "facialImageId": 1,
         "assignedOfficerUserId": "string",
         "aliases": [
@@ -28,7 +28,10 @@
         ],
         "iepLevel": "string"
       }
-    ]
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
   }
 }
 

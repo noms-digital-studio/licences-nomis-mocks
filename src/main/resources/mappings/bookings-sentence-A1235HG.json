@@ -30,6 +30,9 @@
       "earlyTermDate": "2017-10-13",
       "midTermDate": "2017-10-13",
       "lateTermDate": "2017-10-13"
+    },
+    "headers": {
+      "Content-Type": "application/json"
     }
   }
 }

@@ -13,6 +13,9 @@
       "imageType": "type",
       "objectId": 0,
       "imageData": "data"
+    },
+    "headers": {
+      "Content-Type": "application/json"
     }
   }
 }
