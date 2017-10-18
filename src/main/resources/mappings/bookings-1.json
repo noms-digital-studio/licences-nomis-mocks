@@ -25,7 +25,7 @@
       "dateOfBirth": "2017-10-17",
       "age": 0,
       "physicalAttributes": {
-        "gender": "string",
+        "gender": "male",
         "ethnicity": "string",
         "heightFeet": 0,
         "heightInches": 0,

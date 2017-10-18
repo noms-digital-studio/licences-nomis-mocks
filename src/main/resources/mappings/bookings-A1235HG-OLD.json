@@ -1,0 +1,37 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/v2/bookings\\?offenderNo=3AA1235HG"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "bookingId": 1,
+        "bookingNo": "123",
+        "offenderNo": "A1235HG",
+        "firstName": "Mark",
+        "middleName": "",
+        "lastName": "Andrews",
+        "dateOfBirth": "1989-10-22",
+        "age": 28,
+        "alertsCodes": [
+          "string"
+        ],
+        "agencyId": "string",
+        "assignedLivingUnitId": 1,
+        "assignedLivingUnitDesc": "HB1 | L2 | Cell 3",
+        "facialImageId": 1,
+        "assignedOfficerUserId": "string",
+        "aliases": [
+          "Marky Mark"
+        ],
+        "iepLevel": "string"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
