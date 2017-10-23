@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/api/v2/bookings\\?query=offenderNo%3Aeq%3AA1235HG"
+    "urlPattern": "/api/v2/bookings\\?query=offenderNo%3Aeq%3A%27A1235HG%27"
   },
   "response": {
     "status": 200,
