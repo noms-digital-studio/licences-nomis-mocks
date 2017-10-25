@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/api/v2/dischargeAddress\\?nomisId=A1235HG"
+    "urlPattern": "/elite2api/dischargeAddress\\?nomisId=A1235HG"
   },
   "response": {
     "status": 200,
