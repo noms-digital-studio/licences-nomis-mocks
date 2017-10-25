@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/api/v2/images/1"
+    "urlPattern": "/elite2api/images/1"
   },
   "response": {
     "status": 200,

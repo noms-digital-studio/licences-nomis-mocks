@@ -1,0 +1,44 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/elite2api/offender-releases\\?offenderNo=A1235HG&offenderNo=A6627JH"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "bookingId": 1,
+        "offenderNo": "A1235HG",
+        "firstName": "Mark",
+        "middleName": "",
+        "lastName": "Andrews",
+        "assignedLivingUnit": {
+          "agencyId": "",
+          "locationId": 0,
+          "description": "HMP Manchester",
+          "agencyName": ""
+        },
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 2,
+        "offenderNo": "A6627JH",
+        "firstName": "David",
+        "middleName": "",
+        "lastName": "Bryanston",
+        "assignedLivingUnit": {
+          "agencyId": "",
+          "locationId": 0,
+          "description": "HMP Birmingham",
+          "agencyName": ""
+        },
+        "releaseDate": "2017-07-10"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json",
+      "Total-Records": "2"
+    }
+  }
+}
+

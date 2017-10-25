@@ -1,20 +1,20 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/elite2api/bookings\\?query=offenderNo%3Aeq%3A%27A1235HG%27"
+    "urlPattern": "/elite2api/bookings\\?query=offenderNo%3Aeq%3A%27A6627JH%27"
   },
   "response": {
     "status": 200,
     "jsonBody": [
       {
-        "bookingId": 1,
-        "bookingNo": "123",
-        "offenderNo": "A1235HG",
-        "firstName": "Mark",
+        "bookingId": 2,
+        "bookingNo": "456",
+        "offenderNo": "A6627JH",
+        "firstName": "David",
         "middleName": "",
-        "lastName": "Andrews",
-        "dateOfBirth": "1989-10-22",
-        "age": 28,
+        "lastName": "Bryanston",
+        "dateOfBirth": "1979-10-22",
+        "age": 38,
         "alertsCodes": [
           "string"
         ],
@@ -24,7 +24,7 @@
         "facialImageId": 1,
         "assignedOfficerUserId": "string",
         "aliases": [
-          "Marky Mark"
+          "Davey Dave"
         ],
         "iepLevel": "string"
       }

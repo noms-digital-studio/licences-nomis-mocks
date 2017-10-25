@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/api/v2/releases\\?nomisId=A1235HG&nomisId=A6627JH"
+    "urlPattern": "/elite2api/releases\\?nomisId=A1235HG&nomisId=A6627JH"
   },
   "response": {
     "status": 200,

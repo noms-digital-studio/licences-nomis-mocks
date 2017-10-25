@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/api/v2/locations/1"
+    "urlPattern": "/elite2api/locations/1"
   },
   "response": {
     "status": 200,

@@ -1,28 +1,28 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/elite2api/bookings/1"
+    "urlPattern": "/elite2api/bookings/2"
   },
   "response": {
     "status": 200,
     "jsonBody": {
-      "bookingId": 1,
-      "bookingNo": "123",
+      "bookingId": 2,
+      "bookingNo": "string",
       "offenderNo": "string",
-      "firstName": "Mark",
-      "middleName": "",
-      "lastName": "Andrews",
+      "firstName": "David",
+      "middleName": "string",
+      "lastName": "Bryanston",
       "alertsCodes": [
         "string"
       ],
       "assignedLivingUnit": {
         "agencyId": "string",
         "locationId": 0,
-        "description": "HB1 | L2 | Cell 3",
+        "description": "string",
         "agencyName": "string"
       },
       "facialImageId": 0,
-      "dateOfBirth": "1989-10-22",
+      "dateOfBirth": "2017-10-17",
       "age": 0,
       "physicalAttributes": {
         "gender": "male",

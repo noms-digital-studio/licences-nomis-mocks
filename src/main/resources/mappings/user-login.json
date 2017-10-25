@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "POST",
-    "urlPattern": "/api/users/login"
+    "urlPattern": "/elite2api/users/login"
   },
   "response": {
     "status": 201,
