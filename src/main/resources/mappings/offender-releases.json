@@ -9,29 +9,31 @@
       {
         "bookingId": 1,
         "offenderNo": "A1235HG",
+        "title": "string",
+        "suffix": "string",
         "firstName": "Mark",
-        "middleName": "",
+        "middleNames": "",
         "lastName": "Andrews",
-        "assignedLivingUnit": {
-          "agencyId": "",
-          "locationId": 0,
-          "description": "HMP Manchester",
-          "agencyName": ""
-        },
+        "currentlyInPrison": "string",
+        "agencyLocationId": "string",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
         "releaseDate": "2017-11-01"
       },
       {
         "bookingId": 2,
         "offenderNo": "A6627JH",
+        "title": "string",
+        "suffix": "string",
         "firstName": "David",
-        "middleName": "",
+        "middleNames": "",
         "lastName": "Bryanston",
-        "assignedLivingUnit": {
-          "agencyId": "",
-          "locationId": 0,
-          "description": "HMP Birmingham",
-          "agencyName": ""
-        },
+        "currentlyInPrison": "string",
+        "agencyLocationId": "string",
+        "agencyLocationDesc": "HMP Birmingham",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
         "releaseDate": "2017-07-10"
       }
     ],
