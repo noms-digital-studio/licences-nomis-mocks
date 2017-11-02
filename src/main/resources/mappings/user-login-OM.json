@@ -1,12 +1,17 @@
 {
   "request": {
     "method": "POST",
-    "urlPattern": "/elite2api/users/login"
+    "url": "/elite2api/users/login",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{ \"username\": \"OM\" }",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
   },
   "response": {
     "status": 201,
     "jsonBody": {
-      "token": "mocktoken",
+      "token": "OMtoken",
       "issuedAt": 1502363071086,
       "expiration": 1502370271086,
       "refreshToken": "refreshToken",

@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me",
+    "headers": {
+      "Elite-Authorization": {
+        "equalTo": "PMtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "firstName": "User",
+      "lastName": "PM",
+      "staffId": "3",
+      "email": "PM.user@work",
+      "activeCaseLoadId": "GHI"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

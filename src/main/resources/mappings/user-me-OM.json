@@ -1,15 +1,20 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/elite2api/users/me"
+    "url": "/elite2api/users/me",
+    "headers": {
+      "Elite-Authorization": {
+        "equalTo": "OMtoken"
+      }
+    }
   },
   "response": {
     "status": 200,
     "jsonBody": {
-      "firstName": "staff",
-      "lastName": "user",
+      "firstName": "User",
+      "lastName": "OM",
       "staffId": "1",
-      "email": "staff.user@work",
+      "email": "OM.user@work",
       "activeCaseLoadId": "ABC"
     },
     "headers": {
