@@ -1,0 +1,20 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/establishments/ABC"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "name": "HMP Manchester",
+      "address1": "9 Low Street",
+      "address2": "Manchester",
+      "postCode": "M9 9ZY",
+      "telephone": "0161 444 4444"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

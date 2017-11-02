@@ -1,0 +1,20 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/establishments/DEF"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "name": "HMP Birmingham",
+      "address1": "1 High Street",
+      "address2": "Birmingham",
+      "postCode": "B1 1AB",
+      "telephone": "0121 598 8000"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

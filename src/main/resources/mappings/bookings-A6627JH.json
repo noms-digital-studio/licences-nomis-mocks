@@ -18,7 +18,7 @@
         "alertsCodes": [
           "string"
         ],
-        "agencyId": "string",
+        "agencyId": "DEF",
         "assignedLivingUnitId": 1,
         "assignedLivingUnitDesc": "HB1 | L2 | Cell 3",
         "facialImageId": 1,
