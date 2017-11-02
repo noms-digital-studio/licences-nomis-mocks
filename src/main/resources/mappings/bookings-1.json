@@ -16,7 +16,7 @@
         "string"
       ],
       "assignedLivingUnit": {
-        "agencyId": "string",
+        "agencyId": "ABC",
         "locationId": 0,
         "description": "HB1 | L2 | Cell 3",
         "agencyName": "string"
