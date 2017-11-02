@@ -1,0 +1,20 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/establishments/LEI"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "name": "HMP Leed",
+      "address1": "5 Middle Street",
+      "address2": "Leeds",
+      "postCode": "L5 5LL",
+      "telephone": "0153 222 2222"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
