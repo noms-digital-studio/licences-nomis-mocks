@@ -6,7 +6,7 @@
   "response": {
     "status": 200,
     "jsonBody": {
-      "name": "HMP Leed",
+      "name": "HMP Leeds",
       "address1": "5 Middle Street",
       "address2": "Leeds",
       "postCode": "L5 5LL",
