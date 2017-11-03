@@ -12,8 +12,12 @@
     "status": 200,
     "jsonBody": {
       "roles": [
-        "Licences OMU",
-        "Something Else"
+        {
+          "roleId": 0,
+          "roleCode": "string",
+          "roleName": "Licences OMU",
+          "parentRoleCode": "string"
+        }
       ]
     },
     "headers": {
