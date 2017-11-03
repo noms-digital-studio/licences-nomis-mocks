@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/elite2api/offender-releases\\?offenderNo=A1235HG&offenderNo=A6627JH"
+    "url": "/elite2api/offender-releases?offenderNo=A1235HG&offenderNo=A6627JH"
   },
   "response": {
     "status": 200,
