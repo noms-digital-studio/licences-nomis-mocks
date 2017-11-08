@@ -1,0 +1,28 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me/roles",
+    "headers": {
+      "Elite-Authorization": {
+        "equalTo": "NONEtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "roles": [
+        {
+          "roleId": 0,
+          "roleCode": "string",
+          "roleName": "NOT LICENCES",
+          "parentRoleCode": "string"
+        }
+      ]
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
