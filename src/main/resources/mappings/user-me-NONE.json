@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me",
+    "headers": {
+      "Elite-Authorization": {
+        "equalTo": "NONEtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "firstName": "User",
+      "lastName": "NONE",
+      "staffId": "1",
+      "email": "NONE.user@work",
+      "activeCaseLoadId": "XXX"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
