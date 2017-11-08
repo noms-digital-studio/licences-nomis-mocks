@@ -14,8 +14,8 @@
       "roles": [
         {
           "roleId": 0,
-          "roleCode": "string",
-          "roleName": "Licences PM",
+          "roleName": "string",
+          "roleCode": "LEI_LICENCES_PM",
           "parentRoleCode": "string"
         }
       ]
