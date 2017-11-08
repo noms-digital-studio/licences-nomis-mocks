@@ -1,0 +1,24 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me/roles",
+    "headers": {
+      "Elite-Authorization": {
+        "equalTo": "OMtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "roles": [
+        "Licences OM",
+        "Something Else"
+      ]
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
