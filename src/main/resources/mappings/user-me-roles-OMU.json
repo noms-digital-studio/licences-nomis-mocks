@@ -10,16 +10,14 @@
   },
   "response": {
     "status": 200,
-    "jsonBody": {
-      "roles": [
+    "jsonBody": [
         {
           "roleId": 0,
           "roleName": "string",
           "roleCode": "LEI_LICENCES_OMU",
           "parentRoleCode": "string"
         }
-      ]
-    },
+      ],
     "headers": {
       "Content-Type": "application/json"
     }
