@@ -1,0 +1,26 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me/roles",
+    "headers": {
+      "Elite-Authorization": {
+        "equalTo": "BATCHtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+        {
+          "roleId": 0,
+          "roleName": "string",
+          "roleCode": "XYZ_SOMETHING_BATCH",
+          "parentRoleCode": "string"
+        }
+      ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/elite2api/prisoners",
+    "queryParameters" : {
+      "pncNumber" : {
+        "equalTo" : "pnc3"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "offenderId": "nomis3"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/elite2api/offender-relationship/nomis1/COM",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{ \"relationshipId\": \"1\", \"relationshipName\": \"Offender Manager\"}}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response": {
+    "status": 201,
+    "jsonBody": [
+      {
+        "success": "message"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
