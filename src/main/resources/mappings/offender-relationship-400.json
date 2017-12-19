@@ -6,11 +6,9 @@
   },
   "response": {
     "status": 400,
-    "jsonBody": [
-      {
+    "jsonBody": {
         "error": "message"
-      }
-    ],
+      },
     "headers": {
       "Content-Type": "application/json"
     }

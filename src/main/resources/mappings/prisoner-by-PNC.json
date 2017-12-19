@@ -1,12 +1,8 @@
 {
+  "priority": 2,
   "request": {
     "method": "GET",
-    "urlPath": "/elite2api/prisoners",
-    "queryParameters" : {
-      "pncNumber" : {
-        "equalTo" : "pnc6"
-      }
-    }
+    "urlPath": "/elite2api/prisoners"
   },
   "response": {
     "status": 200,
