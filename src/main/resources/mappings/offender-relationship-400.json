@@ -2,7 +2,7 @@
   "priority": 1,
   "request": {
     "method": "POST",
-    "url": "/elite2api/offender-relationship/nomis2/COM"
+    "url": "/elite2api/bookings/offenderNo/nomis2/relationships"
   },
   "response": {
     "status": 400,

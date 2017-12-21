@@ -2,7 +2,7 @@
   "priority": 2,
   "request": {
     "method": "POST",
-    "urlPathPattern": "/elite2api/offender-relationship/([a-zA-Z0-9]*)/COM"
+    "urlPathPattern": "/elite2api/bookings/offenderNo/([a-zA-Z0-9]*)/relationships"
   },
   "response": {
     "status": 201,
