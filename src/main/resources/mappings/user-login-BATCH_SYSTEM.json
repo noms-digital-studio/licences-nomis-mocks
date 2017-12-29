@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/elite2api/users/login",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{ \"username\": \"BATCH_SYSTEM\" }",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response": {
+    "status": 201,
+    "jsonBody": {
+      "token": "BATCH_SYSTEMtoken",
+      "issuedAt": 1502363071086,
+      "expiration": 1502370271086,
+      "refreshToken": "refreshToken",
+      "refreshExpiration": 1502375071086
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

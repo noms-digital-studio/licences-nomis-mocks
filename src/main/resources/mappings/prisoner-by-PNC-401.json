@@ -1,0 +1,24 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "GET",
+    "urlPath": "/elite2api/prisoners",
+    "queryParameters" : {
+      "pncNumber" : {
+        "equalTo" : "pnc401"
+      }
+    }
+  },
+  "response": {
+    "status": 401,
+    "jsonBody": [
+      {
+        "error": "unauth"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

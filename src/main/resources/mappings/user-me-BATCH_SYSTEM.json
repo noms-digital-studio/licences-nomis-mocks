@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me",
+    "headers": {
+      "Elite-Authorization": {
+        "equalTo": "BATCH_SYSTEMtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "firstName": "User",
+      "lastName": "BATCH_SYSTEM",
+      "staffId": "4",
+      "email": "BATCH_SYSTEM.user@work",
+      "activeCaseLoadId": "ABC"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
