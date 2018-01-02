@@ -4,7 +4,7 @@
     "url": "/elite2api/users/me/roles",
     "headers": {
       "Elite-Authorization": {
-        "equalTo": "BATCH_SYSTEMtoken"
+        "equalTo": "NOMIS_BATCHtoken"
       }
     }
   },
@@ -14,7 +14,7 @@
         {
           "roleId": 0,
           "roleName": "string",
-          "roleCode": "XYZ_SOMETHING_BATCH_SYSTEM",
+          "roleCode": "LEI_SYSTEM_USER",
           "parentRoleCode": "string"
         }
       ],

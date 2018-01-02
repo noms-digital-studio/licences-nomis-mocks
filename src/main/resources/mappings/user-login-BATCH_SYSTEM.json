@@ -3,7 +3,7 @@
     "method": "POST",
     "url": "/elite2api/users/login",
     "bodyPatterns" : [ {
-      "equalToJson" : "{ \"username\": \"BATCH_SYSTEM\" }",
+      "equalToJson" : "{ \"username\": \"NOMIS_BATCH\" }",
       "ignoreArrayOrder" : true,
       "ignoreExtraElements" : true
     } ]
@@ -11,7 +11,7 @@
   "response": {
     "status": 201,
     "jsonBody": {
-      "token": "BATCH_SYSTEMtoken",
+      "token": "NOMIS_BATCHtoken",
       "issuedAt": 1502363071086,
       "expiration": 1502370271086,
       "refreshToken": "refreshToken",
