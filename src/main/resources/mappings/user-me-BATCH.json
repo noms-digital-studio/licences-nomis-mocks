@@ -4,7 +4,7 @@
     "url": "/elite2api/users/me",
     "headers": {
       "Elite-Authorization": {
-        "equalTo": "BATCHtoken"
+        "equalTo": "LICENCE_ADMINtoken"
       }
     }
   },
@@ -12,9 +12,9 @@
     "status": 200,
     "jsonBody": {
       "firstName": "User",
-      "lastName": "BATCH",
+      "lastName": "LICENCE_ADMIN",
       "staffId": "4",
-      "email": "BATCH.user@work",
+      "email": "LICENCE_ADMIN.user@work",
       "activeCaseLoadId": "ABC"
     },
     "headers": {

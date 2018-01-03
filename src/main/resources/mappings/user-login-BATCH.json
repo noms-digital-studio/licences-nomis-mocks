@@ -3,7 +3,7 @@
     "method": "POST",
     "url": "/elite2api/users/login",
     "bodyPatterns" : [ {
-      "equalToJson" : "{ \"username\": \"BATCH\" }",
+      "equalToJson" : "{ \"username\": \"LICENCE_ADMIN\" }",
       "ignoreArrayOrder" : true,
       "ignoreExtraElements" : true
     } ]
@@ -11,7 +11,7 @@
   "response": {
     "status": 201,
     "jsonBody": {
-      "token": "BATCHtoken",
+      "token": "LICENCE_ADMINtoken",
       "issuedAt": 1502363071086,
       "expiration": 1502370271086,
       "refreshToken": "refreshToken",

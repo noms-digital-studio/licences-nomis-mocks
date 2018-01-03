@@ -4,7 +4,7 @@
     "url": "/elite2api/users/me/roles",
     "headers": {
       "Elite-Authorization": {
-        "equalTo": "BATCHtoken"
+        "equalTo": "LICENCE_ADMINtoken"
       }
     }
   },
@@ -14,7 +14,7 @@
         {
           "roleId": 0,
           "roleName": "string",
-          "roleCode": "XYZ_SOMETHING_BATCH",
+          "roleCode": "LEI_LICENCE_ADMIN",
           "parentRoleCode": "string"
         }
       ],
