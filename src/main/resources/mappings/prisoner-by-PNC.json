@@ -8,7 +8,7 @@
     "status": 200,
     "jsonBody": [
       {
-        "offenderId": "nomis6"
+        "offenderNo": "nomis6"
       }
     ],
     "headers": {
