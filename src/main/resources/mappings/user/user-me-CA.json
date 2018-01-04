@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me",
+    "headers": {
+      "Elite-Authorization": {
+        "equalTo": "CAtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "firstName": "User",
+      "lastName": "CA_USER",
+      "staffId": "2",
+      "email": "CA_USER@work",
+      "activeCaseLoadId": "DEF"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

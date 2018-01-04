@@ -1,0 +1,26 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me/roles",
+    "headers": {
+      "Elite-Authorization": {
+        "equalTo": "CAtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+        {
+          "roleId": 0,
+          "roleName": "string",
+          "roleCode": "LEI_LICENCES_CA",
+          "parentRoleCode": "string"
+        }
+      ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
