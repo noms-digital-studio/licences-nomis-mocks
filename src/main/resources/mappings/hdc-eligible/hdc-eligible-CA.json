@@ -21,12 +21,12 @@
         "lastName": "Andrews",
         "currentlyInPrison": "string",
         "agencyLocationId": "ABC",
-        "agencyLocationDesc": "HMP Manchester",
+        "agencyLocationDesc": "A-C-2-002 - HMP Berwyn",
         "internalLocationId": "string",
         "internalLocationDesc": "string",
         "releaseDate": "2017-11-01",
-        "conditionalReleaseDate": "2017-11-10",
-        "homeDetentionCurfewEligibilityDate": "2017-10-13",
+        "conditionalReleaseDate": "2017-12-15",
+        "homeDetentionCurfewEligibilityDate": "2017-07-09",
         "receptionDate": "2017-10-13"
       },
       {
