@@ -1,0 +1,24 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/agencies/prison/FKI"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "agencyId": "FKI",
+      "addressType": "BUS",
+      "premise": "HMP FRANKLAND",
+      "city": "Durham",
+      "country": "England",
+      "postCode": "TxoPWrm",
+      "phones": [
+        {}
+      ]
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
