@@ -7,8 +7,8 @@
     "status": 200,
     "jsonBody": [
       {
-        "lastName": "string",
-        "firstName": "string",
+        "lastName": "Spinks",
+        "firstName": "Emma",
         "middleName": "string",
         "contactType": "string",
         "contactTypeDescription": "string",
