@@ -1,0 +1,19 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/elite2api/bookingsA1235HG/mainOffence"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "bookingId": 1,
+        "offenceDescription": "Robbery, conspiracy to rob"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
