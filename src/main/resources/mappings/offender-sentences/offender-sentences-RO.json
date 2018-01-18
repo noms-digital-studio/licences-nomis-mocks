@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/elite2api/offender-sentences\\?query=homeDetentionCurfewEligibilityDate%3Ais%3Anot%20null,and%3AconditionalReleaseDate%3Ais%3Anot%20null",
+    "url": "/elite2api/offender-sentences?query=homeDetentionCurfewEligibilityDate%3Ais%3Anot%20null%2Cand%3AconditionalReleaseDate%3Ais%3Anot%20null",
     "headers": {
       "Elite-Authorization": {
         "equalTo": "ROtoken"
