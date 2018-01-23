@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/elite2api/bookings/1/sentenceDetail"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "bookingId": 1,
+      "conditionalReleaseDate": "2019-10-15",
+      "homeDetentionCurfewEligibilityDate": "2019-07-13"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

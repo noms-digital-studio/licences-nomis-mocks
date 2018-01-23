@@ -8,7 +8,7 @@
     "jsonBody": [
       {
         "bookingId": 1,
-        "offenderNo": "A1235HG",
+        "offenderNo": "A1235XX",
         "title": "string",
         "suffix": "string",
         "firstName": "Mark",
@@ -20,21 +20,6 @@
         "internalLocationId": "string",
         "internalLocationDesc": "string",
         "releaseDate": "2017-11-01"
-      },
-      {
-        "bookingId": 2,
-        "offenderNo": "A6627JH",
-        "title": "string",
-        "suffix": "string",
-        "firstName": "David",
-        "middleNames": "",
-        "lastName": "Bryanston",
-        "currentlyInPrison": "string",
-        "agencyLocationId": "DEF",
-        "agencyLocationDesc": "HMP Birmingham",
-        "internalLocationId": "string",
-        "internalLocationDesc": "string",
-        "releaseDate": "2017-07-10"
       }
     ],
     "headers": {

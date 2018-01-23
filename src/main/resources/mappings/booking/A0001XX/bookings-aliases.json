@@ -9,18 +9,7 @@
       {
         "firstName": "Marky",
         "middleName": "string",
-        "lastName": "Mark",
-        "age": 0,
-        "dob": "2018-01-11",
-        "gender": "string",
-        "ethnicity": "string",
-        "nameType": "string",
-        "createDate": "2018-01-11"
-      },
-      {
-        "firstName": "Big",
-        "middleName": "string",
-        "lastName": "Mark",
+        "lastName": "Andrews",
         "age": 0,
         "dob": "2018-01-11",
         "gender": "string",

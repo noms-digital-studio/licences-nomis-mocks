@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/elite2api/offender-sentences?query=homeDetentionCurfewEligibilityDate%3Ais%3Anot%20null%2Cand%3AconditionalReleaseDate%3Ais%3Anot%20null",
+    "urlPath": "/elite2api/offender-sentences",
     "headers": {
       "Elite-Authorization": {
         "equalTo": "CAtoken"
@@ -13,50 +13,18 @@
     "jsonBody": [
       {
         "bookingId": 1,
-        "offenderNo": "A1235HG",
+        "offenderNo": "A1235XX",
         "firstName": "MARK",
         "lastName": "ANDREWS",
         "dateOfBirth": "1989-10-22",
         "agencyLocationId": "ABC",
-        "agencyLocationDesc": "BERWYN (HMP)",
-        "internalLocationDesc": "A-C-2-002",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
           "bookingId": 1,
-          "sentenceStartDate": "2014-07-08",
-          "sentenceExpiryDate": "2017-07-07",
-          "conditionalReleaseDate": "2017-12-15",
-          "conditionalReleaseOverrideDate": "2016-05-24",
-          "nonDtoReleaseDate": "2016-05-24",
-          "nonDtoReleaseDateType": "CRD",
-          "licenceExpiryDate": "2017-07-07",
-          "homeDetentionCurfewEligibilityDate": "2017-07-09",
-          "confirmedReleaseDate": "2016-05-24",
-          "releaseDate": "2017-11-01"
-        }
-      },
-      {
-        "bookingId": 2,
-        "offenderNo": "A6627JH",
-        "firstName": "DAVID",
-        "lastName": "BRYANSTON",
-        "dateOfBirth": "1979-10-22",
-        "agencyLocationId": "DEF",
-        "agencyLocationDesc": "BIRMINGHAM (HMP)",
-        "internalLocationDesc": "A-C-2-002",
-        "facialImageId": 2,
-        "sentenceDetail": {
-          "bookingId": 2,
-          "sentenceStartDate": "2014-07-08",
-          "sentenceExpiryDate": "2017-07-07",
-          "conditionalReleaseDate": "2017-11-10",
-          "conditionalReleaseOverrideDate": "2016-05-24",
-          "nonDtoReleaseDate": "2016-05-24",
-          "nonDtoReleaseDateType": "CRD",
-          "licenceExpiryDate": "2017-07-07",
-          "homeDetentionCurfewEligibilityDate": "2017-10-13",
-          "confirmedReleaseDate": "2016-05-24",
-          "releaseDate": "2017-07-10"
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13"
         }
       }
     ],

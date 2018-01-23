@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/elite2api/bookings\\?query=offenderNo%3Aeq%3A%27A1235HG%27"
+    "urlPattern": "/elite2api/bookings\\?query=offenderNo%3Aeq%3A%27A0001XX%27"
   },
   "response": {
     "status": 200,
@@ -9,7 +9,7 @@
       {
         "bookingId": 1,
         "bookingNo": "123",
-        "offenderNo": "A1235HG",
+        "offenderNo": "A0001XX",
         "firstName": "Mark",
         "middleName": "",
         "lastName": "Andrews",
@@ -18,13 +18,13 @@
         "alertsCodes": [
           "string"
         ],
-        "agencyId": "ABC",
+        "agencyId": "LT1",
         "assignedLivingUnitId": 1,
-        "assignedLivingUnitDesc": "HB1 | L2 | Cell 3",
+        "assignedLivingUnitDesc": "A-1-1",
         "facialImageId": 1,
         "assignedOfficerUserId": "string",
         "aliases": [
-          "Marky Mark, Big Mark"
+          "Marky Andrews"
         ],
         "iepLevel": "string"
       }
