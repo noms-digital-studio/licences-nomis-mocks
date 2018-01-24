@@ -15,7 +15,7 @@
         {
           "roleId": 0,
           "roleCode": "string",
-          "roleName": "NOT LICENCES",
+          "roleName": "NOT LICENCE",
           "parentRoleCode": "string"
         }
       ]
