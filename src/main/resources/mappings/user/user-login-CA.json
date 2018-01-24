@@ -3,7 +3,7 @@
     "method": "POST",
     "url": "/elite2api/users/login",
     "bodyPatterns" : [ {
-      "equalToJson" : "{ \"username\": \"CA_USER\" }",
+      "equalToJson" : "{ \"username\": \"CA_USER_TEST\" }",
       "ignoreArrayOrder" : true,
       "ignoreExtraElements" : true
     } ]
