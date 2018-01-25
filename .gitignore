@@ -4,3 +4,8 @@ target/
 build/
 gradlew.bat
 out/
+.classpath
+.project
+.settings/
+bin/
+*.iml
