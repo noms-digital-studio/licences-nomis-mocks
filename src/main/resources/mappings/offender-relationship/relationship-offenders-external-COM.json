@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/elite2api/offender-relationships/externalRef/DELIUS_ID/com"
+    "url": "/elite2api/offender-relationships/externalRef/DELIUS_ID/COM"
   },
   "response": {
     "status": 200,
