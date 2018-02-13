@@ -1,0 +1,33 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/elite2api/agencies/prison/LT1"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "agencyId": "LT1",
+      "addressType": "BUS",
+      "premise": "HMP LICENCE TEST PRISON",
+      "city": "Testington",
+      "locality": "Testville",
+      "country": "England",
+      "postCode": "AB1 1AB",
+      "phones": [
+        {
+          "number": "0111 999 999",
+          "type": "BUS",
+          "ext": "999"
+        },{
+          "number": "0222 999 999",
+          "type": "FAX",
+          "ext": "999"
+        }
+      ]
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
