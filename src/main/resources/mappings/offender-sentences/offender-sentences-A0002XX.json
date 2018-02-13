@@ -1,22 +1,17 @@
 {
-  "priority": 3,
+  "priority": 2,
   "request": {
     "method": "GET",
-    "urlPath": "/elite2api/offender-sentences",
-    "headers": {
-      "Elite-Authorization": {
-        "equalTo": "ROtoken"
-      }
-    }
+    "url": "/elite2api/offender-sentences?offenderNo=A0002XX"
   },
   "response": {
     "status": 200,
     "jsonBody": [
       {
         "bookingId": 1,
-        "offenderNo": "A0001XX",
-        "firstName": "MARK",
-        "lastName": "ANDREWS",
+        "offenderNo": "A0002XX",
+        "firstName": "BILL",
+        "lastName": "BLOGGS",
         "dateOfBirth": "1989-10-22",
         "agencyLocationId": "LT1",
         "agencyLocationDesc": "Licence Auto Test Prison",
