@@ -1,21 +1,21 @@
 {
   "request": {
     "method": "POST",
-    "url": "/elite2api/users/login",
+    "url": "/elite2api/oauth/token",
     "bodyPatterns" : [ {
-      "equalToJson" : "{ \"username\": \"RO_USER_TEST\" }",
-      "ignoreArrayOrder" : true,
-      "ignoreExtraElements" : true
+      "contains" : "username=RO_USER_TEST"
     } ]
   },
   "response": {
     "status": 201,
     "jsonBody": {
-      "token": "ROtoken",
-      "issuedAt": 1502363071086,
-      "expiration": 1502370271086,
-      "refreshToken": "refreshToken",
-      "refreshExpiration": 1502375071086
+      "access_token": "ROtoken",
+      "token_type": "bearer",
+      "refresh_token": "refreshToken",
+      "expires_in": 1199,
+      "scope": "read write",
+      "internalUser": true,
+      "jti": "91687796-3f69-441c-aaa9-1de7e314eee9"
     },
     "headers": {
       "Content-Type": "application/json"

@@ -5,7 +5,7 @@
     "urlPath": "/elite2api/offender-sentences",
     "headers": {
       "Elite-Authorization": {
-        "equalTo": "ROtoken"
+        "contains": "ROtoken"
       }
     }
   },
