@@ -4,7 +4,7 @@
     "url": "/elite2api/users/me",
     "headers": {
       "Elite-Authorization": {
-        "equalTo": "NONEtoken"
+        "contains": "NONEtoken"
       }
     }
   },

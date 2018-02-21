@@ -4,7 +4,7 @@
     "url": "/elite2api/users/me/roles",
     "headers": {
       "Elite-Authorization": {
-        "equalTo": "ROtoken"
+        "contains": "ROtoken"
       }
     }
   },
