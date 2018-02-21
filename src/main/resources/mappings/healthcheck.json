@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/elite2api/info/health"
+    "urlPattern": "/elite2api/health"
   },
   "response": {
     "status": 200,
