@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/elite2api/oauth/token",
+    "bodyPatterns" : [ {
+      "contains" : "username=DM_USER_MULTI"
+    } ]
+  },
+  "response": {
+    "status": 201,
+    "jsonBody": {
+      "access_token": "DMMultitoken",
+      "token_type": "bearer",
+      "refresh_token": "refreshToken",
+      "expires_in": 1199,
+      "scope": "read write",
+      "internalUser": true,
+      "jti": "91687796-3f69-441c-aaa9-1de7e314eee9"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

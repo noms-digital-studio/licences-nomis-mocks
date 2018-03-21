@@ -1,13 +1,7 @@
 {
-  "priority": 3,
   "request": {
     "method": "GET",
-    "urlPath": "/elite2api/offender-sentences",
-    "headers": {
-      "Elite-Authorization": {
-        "contains": "ROtoken"
-      }
-    }
+    "urlPath": "/elite2api/offender-sentences"
   },
   "response": {
     "status": 200,

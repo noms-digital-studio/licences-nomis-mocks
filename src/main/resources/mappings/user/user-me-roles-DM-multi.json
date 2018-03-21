@@ -1,0 +1,26 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me/roles",
+    "headers": {
+      "Elite-Authorization": {
+        "contains": "DMMultitoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+        {
+          "roleId": 0,
+          "roleName": "string",
+          "roleCode": "LEI_LICENCE_DM",
+          "parentRoleCode": "string"
+        }
+      ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+

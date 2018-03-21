@@ -4,7 +4,7 @@
     "urlPath": "/elite2api/offender-sentences",
     "headers": {
       "Elite-Authorization": {
-        "contains": "CAMultitoken"
+        "contains": "Multitoken"
       }
     }
   },
@@ -184,7 +184,7 @@
     ],
     "headers": {
       "Content-Type": "application/json",
-      "Total-Records": "1"
+      "Total-Records": "10"
     }
   }
 }

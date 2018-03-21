@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me",
+    "headers": {
+      "Elite-Authorization": {
+        "contains": "DMMultitoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "firstName": "User",
+      "lastName": "DMMULTI_USER",
+      "staffId": "3",
+      "email": "DM_USER@work",
+      "activeCaseLoadId": "GHI"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
