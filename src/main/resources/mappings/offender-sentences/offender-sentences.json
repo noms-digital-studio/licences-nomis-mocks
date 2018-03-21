@@ -1,12 +1,8 @@
 {
+  "priority": 2,
   "request": {
     "method": "GET",
-    "urlPath": "/elite2api/offender-sentences",
-    "headers": {
-      "Elite-Authorization": {
-        "contains": "CAtoken"
-      }
-    }
+    "urlPath": "/elite2api/offender-sentences"
   },
   "response": {
     "status": 200,

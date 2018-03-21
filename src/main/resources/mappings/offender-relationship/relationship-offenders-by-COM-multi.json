@@ -1,0 +1,166 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/offender-relationships/externalRef/DELIUS_ID_TEST_MULTI/COM"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "bookingId": 1,
+        "offenderNo": "A0001XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0002XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews2",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0003XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews3",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0004XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews4",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0005XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews5",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0006XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews6",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0007XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews7",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0008XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews8",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0009XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews9",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0010XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "Mark",
+        "middleNames": "",
+        "lastName": "Andrews10",
+        "currentlyInPrison": "string",
+        "agencyLocationId": "ABC",
+        "agencyLocationDesc": "HMP Manchester",
+        "internalLocationId": "string",
+        "internalLocationDesc": "string",
+        "releaseDate": "2017-11-01"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json",
+      "Total-Records": "10"
+    }
+  }
+}
+
