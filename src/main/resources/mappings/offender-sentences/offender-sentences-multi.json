@@ -181,6 +181,210 @@
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
         }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0011XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS11",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0012XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS12",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0013XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS13",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0014XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS14",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0015XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS15",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0016XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS16",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0017XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS17",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0018XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS17",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0019XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS19",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0020XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS20",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0021XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS21",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
+      },
+      {
+        "bookingId": 1,
+        "offenderNo": "A0022XX",
+        "firstName": "MARK",
+        "lastName": "ANDREWS22",
+        "dateOfBirth": "1989-10-22",
+        "agencyLocationId": "LT1",
+        "agencyLocationDesc": "Licence Auto Test Prison",
+        "internalLocationDesc": "A-1-1",
+        "facialImageId": 1,
+        "sentenceDetail": {
+          "bookingId": 1,
+          "conditionalReleaseDate": "2019-10-15",
+          "homeDetentionCurfewEligibilityDate": "2019-07-13",
+          "automaticReleaseDate": "2020-02-02"
+        }
       }
     ],
     "headers": {
