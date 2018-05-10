@@ -9,6 +9,7 @@
       "bookingId": 1,
       "conditionalReleaseDate": "2019-10-15",
       "homeDetentionCurfewEligibilityDate": "2019-07-13",
+      "homeDetentionCurfewActualDate": "2019-09-13",
       "sentenceExpiryDate": "2019-05-24",
       "licenceExpiryDate": "2019-08-02",
       "topupSupervisionExpiryDate": "2019-08-03",
