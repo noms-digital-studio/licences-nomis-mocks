@@ -11,6 +11,7 @@
         "bookingId": 1,
         "offenderNo": "A0001XX",
         "firstName": "MARK",
+        "middleName": "MIDDLE",
         "lastName": "ANDREWS",
         "dateOfBirth": "1989-10-22",
         "agencyLocationId": "LT1",

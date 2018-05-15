@@ -1,0 +1,36 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/elite2api/bookings/1/identifiers"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "type": "PNC",
+        "value": "PNC/A0001XX",
+        "issuedAuthorityText": "issuedBySomeone",
+        "issuedDate": "01-01-2001",
+        "caseloadType": "INST"
+      },
+      {
+        "type": "CRO",
+        "value": "CRO/A0001XX",
+        "issuedAuthorityText": "issuedBySomeone",
+        "issuedDate": "01-01-2001",
+        "caseloadType": "INST"
+      },
+      {
+        "type": "middleName",
+        "value": "Middle",
+        "issuedAuthorityText": "issuedBySomeone",
+        "issuedDate": "01-01-2001",
+        "caseloadType": "INST"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
