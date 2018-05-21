@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/elite2api/health"
+    "urlPattern": "([a-z0-9/]*)/(health|healthcheck)"
   },
   "response": {
     "status": 200,
