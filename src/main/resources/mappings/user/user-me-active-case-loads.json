@@ -1,0 +1,32 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me/caseLoads",
+    "headers": {
+      "Elite-Authorization": {
+        "contains": "CAtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "caseLoadId": "DEF",
+        "description": "Askham Grange",
+        "type": "string",
+        "caseloadFunction": "string"
+      },
+      {
+        "caseLoadId": "BEL",
+        "description": "Belmarsh",
+        "type": "string",
+        "caseloadFunction": "string"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
