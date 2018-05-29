@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar build/libs/licences-nomis-mocks-all.jar --root-dir src/main/resources --port $PORT --no-request-journal --async-response-enabled
+web: java $JAVA_OPTS -jar build/libs/licences-nomis-mocks-all.jar --root-dir src/main/resources --port $PORT --no-request-journal
