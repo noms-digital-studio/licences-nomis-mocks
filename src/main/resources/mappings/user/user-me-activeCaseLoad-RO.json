@@ -1,0 +1,19 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/me/caseLoads",
+    "headers": {
+      "Elite-Authorization": {
+        "contains": "ROtoken"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [   ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
