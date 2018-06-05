@@ -1,0 +1,40 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/prisoners?dob=1989-10-22&firstName=MARK&lastName=ANDREWS&anyMatch=true"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "offenderNo": "A0001XX",
+        "title": "string",
+        "suffix": "string",
+        "firstName": "mark",
+        "middleNames": "Middle Middle2",
+        "lastName": "andrews",
+        "dateOfBirth": "string",
+        "gender": "string",
+        "nationalities": "string",
+        "currentlyInPrison": "string",
+        "latestBookingId": 0,
+        "latestLocationId": "string",
+        "latestLocation": "string",
+        "pncNumber": "PNC0001",
+        "croNumber": "CRO0001",
+        "ethnicity": "string",
+        "birthCountry": "string",
+        "religion": "string",
+        "convictedStatus": "string",
+        "imprisonmentStatus": "string",
+        "receptionDate": "string",
+        "maritalStatus": "string"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
