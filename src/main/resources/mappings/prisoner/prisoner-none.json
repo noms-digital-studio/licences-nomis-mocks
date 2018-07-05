@@ -2,7 +2,12 @@
   "priority": 2,
   "request": {
     "method": "GET",
-    "urlPath": "/elite2api/prisoners"
+    "urlPath": "/elite2api/prisoners",
+    "queryParameters" : {
+      "pncNumber" : {
+        "absent" : "true"
+      }
+    }
   },
   "response": {
     "status": 200,
