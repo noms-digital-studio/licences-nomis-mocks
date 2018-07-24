@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/elite2api/bookings/1/relationships\\?query=relationshipType%3Aeq%3A%27COM%27"
+    "urlPattern": "/elite2api/bookings/1/relationships\\?relationshipType=COM"
   },
   "response": {
     "status": 200,
