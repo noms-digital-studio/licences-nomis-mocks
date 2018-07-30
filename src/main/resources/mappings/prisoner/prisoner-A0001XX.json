@@ -2,13 +2,13 @@
   "priority": 1,
   "request": {
     "method": "GET",
-    "url": "/elite2api/prisoners?offenderNo=A0001XX"
+    "url": "/elite2api/prisoners?offenderNo=A5001DY"
   },
   "response": {
     "status": 200,
     "jsonBody": [
       {
-        "offenderNo": "A0001XX",
+        "offenderNo": "A5001DY",
         "title": "string",
         "suffix": "string",
         "firstName": "string",

@@ -8,7 +8,7 @@
     "jsonBody": {
       "agencyId": "LT1",
       "addressType": "BUS",
-      "premise": "HMP LICENCE TEST PRISON",
+      "premise": "HMP Albany",
       "city": "Testington",
       "locality": "Testville",
       "country": "England",

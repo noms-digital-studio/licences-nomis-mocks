@@ -8,11 +8,11 @@
     "jsonBody": {
       "bookingId": 1,
       "conditionalReleaseDate": "2019-10-15",
-      "homeDetentionCurfewEligibilityDate": "2019-07-13",
+      "homeDetentionCurfewEligibilityDate": "2019-08-23",
       "homeDetentionCurfewActualDate": "2019-09-13",
-      "sentenceExpiryDate": "2019-05-24",
-      "licenceExpiryDate": "2019-08-02",
-      "topupSupervisionExpiryDate": "2019-08-03",
+      "sentenceExpiryDate": "2020-05-24",
+      "licenceExpiryDate": "2020-05-02",
+      "topupSupervisionExpiryDate": "2020-10-15",
       "automaticReleaseDate": "2020-02-02"
     },
     "headers": {
