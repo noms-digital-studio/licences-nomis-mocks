@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/elite2api/bookings/offenderNo/A0001XX"
+    "urlPattern": "/elite2api/bookings/offenderNo/A5001DY"
   },
   "response": {
     "status": 200,
@@ -9,7 +9,7 @@
       {
         "bookingId": 1,
         "bookingNo": "123",
-        "offenderNo": "A0001XX",
+        "offenderNo": "A5001DY",
         "firstName": "Mark",
         "middleName": "",
         "lastName": "Andrews",
@@ -20,7 +20,7 @@
         ],
         "agencyId": "LT1",
         "assignedLivingUnitId": 1,
-        "assignedLivingUnitDesc": "A-1-1",
+        "assignedLivingUnitDesc": "T-T1-001",
         "facialImageId": 1,
         "assignedOfficerUserId": "string",
         "aliases": [

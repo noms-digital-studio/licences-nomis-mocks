@@ -14,8 +14,8 @@
         "lastName": "BLOGGS",
         "dateOfBirth": "1989-10-22",
         "agencyLocationId": "LT1",
-        "agencyLocationDesc": "Licence Auto Test Prison",
-        "internalLocationDesc": "A-1-1",
+        "agencyLocationDesc": "HMP Albany",
+        "internalLocationDesc": "T-T1-001",
         "facialImageId": 1,
         "sentenceDetail": {
           "bookingId": 1,
