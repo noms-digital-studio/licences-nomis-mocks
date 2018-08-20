@@ -2,7 +2,7 @@
   "priority": 1,
   "request": {
     "method": "GET",
-    "url": "/elite2api/offender-sentences?offenderNo=A5001DY"
+    "url": "/elite2api/offender-sentences?bookingId=1"
   },
   "response": {
     "status": 200,
