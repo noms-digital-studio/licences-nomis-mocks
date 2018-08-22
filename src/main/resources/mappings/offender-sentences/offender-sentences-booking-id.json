@@ -11,6 +11,7 @@
         "bookingId": 1,
         "offenderNo": "A5001DY",
         "firstName": "MARK",
+        "middleName": "MIDDLE",
         "lastName": "ANDREWS",
         "dateOfBirth": "1989-10-22",
         "agencyLocationId": "LT1",
@@ -23,7 +24,9 @@
           "homeDetentionCurfewEligibilityDate": "2019-08-23",
           "homeDetentionCurfewActualDate": "2019-09-13",
           "automaticReleaseDate": "2020-02-02",
-          "sentenceExpiryDate": "2020-05-24"
+          "sentenceExpiryDate": "2020-05-24",
+          "licenceExpiryDate": "2020-05-02",
+          "topupSupervisionExpiryDate": "2020-10-15"
         }
       }
     ],
