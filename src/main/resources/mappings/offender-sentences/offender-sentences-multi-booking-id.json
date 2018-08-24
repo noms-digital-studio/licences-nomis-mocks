@@ -2,7 +2,7 @@
   "priority": 1,
   "request": {
     "method": "POST",
-    "urlPath": "/elite2api/offender-sentences",
+    "urlPath": "/elite2api/offender-sentences/bookings",
     "headers": {
       "Elite-Authorization": {
         "contains": "Multitoken"
