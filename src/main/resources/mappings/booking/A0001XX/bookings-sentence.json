@@ -6,7 +6,7 @@
   "response": {
     "status": 200,
     "jsonBody": {
-      "bookingId": 1,
+      "bookingId": 1200635,
       "conditionalReleaseDate": "2019-10-15",
       "homeDetentionCurfewEligibilityDate": "2019-08-23",
       "homeDetentionCurfewActualDate": "2019-09-13",

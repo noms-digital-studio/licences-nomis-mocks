@@ -7,7 +7,7 @@
     "status": 200,
     "jsonBody": [
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0001XX",
         "title": "string",
         "suffix": "string",
@@ -22,7 +22,7 @@
         "releaseDate": "2017-11-01"
       },
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0002XX",
         "title": "string",
         "suffix": "string",
@@ -37,7 +37,7 @@
         "releaseDate": "2017-11-01"
       },
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0003XX",
         "title": "string",
         "suffix": "string",
@@ -52,7 +52,7 @@
         "releaseDate": "2017-11-01"
       },
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0004XX",
         "title": "string",
         "suffix": "string",
@@ -67,7 +67,7 @@
         "releaseDate": "2017-11-01"
       },
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0005XX",
         "title": "string",
         "suffix": "string",
@@ -82,7 +82,7 @@
         "releaseDate": "2017-11-01"
       },
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0006XX",
         "title": "string",
         "suffix": "string",
@@ -97,7 +97,7 @@
         "releaseDate": "2017-11-01"
       },
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0007XX",
         "title": "string",
         "suffix": "string",
@@ -112,7 +112,7 @@
         "releaseDate": "2017-11-01"
       },
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0008XX",
         "title": "string",
         "suffix": "string",
@@ -127,7 +127,7 @@
         "releaseDate": "2017-11-01"
       },
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0009XX",
         "title": "string",
         "suffix": "string",
@@ -142,7 +142,7 @@
         "releaseDate": "2017-11-01"
       },
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A0010XX",
         "title": "string",
         "suffix": "string",

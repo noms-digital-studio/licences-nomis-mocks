@@ -8,7 +8,7 @@
     "status": 200,
     "jsonBody": [
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A5001DY",
         "firstName": "MARK",
         "lastName": "ANDREWS",
@@ -18,7 +18,7 @@
         "internalLocationDesc": "T-T1-001",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-08-23",
           "homeDetentionCurfewActualDate": "2019-09-13",

@@ -13,7 +13,7 @@
     "status": 200,
     "jsonBody": [
       {
-        "bookingId": 1,
+        "bookingId": 1200635,
         "offenderNo": "A5001DY",
         "firstName": "MARK",
         "lastName": "ANDREWS",
@@ -23,7 +23,7 @@
         "internalLocationDesc": "T-T1-001",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-08-23",
           "homeDetentionCurfewActualDate": "2019-09-13",
@@ -42,7 +42,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-12-01",
           "homeDetentionCurfewEligibilityDate": "2019-08-12",
           "automaticReleaseDate": "2020-02-02"
@@ -59,7 +59,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2015-07-13",
           "homeDetentionCurfewEligibilityDate": "2018-01-15",
           "automaticReleaseDate": "2020-02-02"
@@ -76,7 +76,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2022-10-15",
           "homeDetentionCurfewEligibilityDate": "2022-05-12",
           "automaticReleaseDate": "2020-02-02"
@@ -93,7 +93,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2024-12-13",
           "homeDetentionCurfewEligibilityDate": "2023-01-30",
           "automaticReleaseDate": "2020-02-02"
@@ -110,7 +110,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2015-07-13",
           "homeDetentionCurfewEligibilityDate": "2014-10-15",
           "automaticReleaseDate": "2020-02-02"
@@ -127,7 +127,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-08-13",
           "homeDetentionCurfewEligibilityDate": "2014-10-15",
           "automaticReleaseDate": "2020-02-02"
@@ -144,7 +144,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "",
           "homeDetentionCurfewEligibilityDate": "2014-10-15",
           "automaticReleaseDate": "2018-02-02"
@@ -161,7 +161,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-07-13",
           "homeDetentionCurfewEligibilityDate": "2019-10-15",
           "automaticReleaseDate": "2020-02-02"
@@ -178,7 +178,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -195,7 +195,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -212,7 +212,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -229,7 +229,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -246,7 +246,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -263,7 +263,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -280,7 +280,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -297,7 +297,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -314,7 +314,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -331,7 +331,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -348,7 +348,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -365,7 +365,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
@@ -382,7 +382,7 @@
         "internalLocationDesc": "A-1-1",
         "facialImageId": 1,
         "sentenceDetail": {
-          "bookingId": 1,
+          "bookingId": 1200635,
           "conditionalReleaseDate": "2019-10-15",
           "homeDetentionCurfewEligibilityDate": "2019-07-13",
           "automaticReleaseDate": "2020-02-02"
