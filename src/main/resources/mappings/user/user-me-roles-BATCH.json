@@ -4,7 +4,7 @@
     "url": "/elite2api/users/me/roles",
     "headers": {
       "Authorization": {
-        "contains": "DMtoken"
+        "contains": "Batchtoken"
       }
     }
   },
@@ -14,7 +14,7 @@
         {
           "roleId": 0,
           "roleName": "string",
-          "roleCode": "LEI_LICENCE_DM",
+          "roleCode": "NOMIS_BATCHLOAD",
           "parentRoleCode": "string"
         }
       ],

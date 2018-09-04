@@ -4,7 +4,7 @@
     "url": "/elite2api/users/me/caseLoads",
     "headers": {
       "Authorization": {
-        "contains": "ROtoken"
+        "contains": "Batchtoken"
       }
     }
   },

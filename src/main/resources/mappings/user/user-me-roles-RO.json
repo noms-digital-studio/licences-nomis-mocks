@@ -3,7 +3,7 @@
     "method": "GET",
     "url": "/elite2api/users/me/roles",
     "headers": {
-      "Elite-Authorization": {
+      "Authorization": {
         "contains": "ROtoken"
       }
     }
@@ -14,7 +14,7 @@
         {
           "roleId": 0,
           "roleName": "string",
-          "roleCode": "LEI_LICENCES_RO",
+          "roleCode": "LEI_LICENCE_RO",
           "parentRoleCode": "string"
         }
       ],
