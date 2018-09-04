@@ -3,7 +3,7 @@
     "method": "GET",
     "url": "/elite2api/users/me",
     "headers": {
-      "Elite-Authorization": {
+      "Authorization": {
         "contains": "ROMultitoken"
       }
     }

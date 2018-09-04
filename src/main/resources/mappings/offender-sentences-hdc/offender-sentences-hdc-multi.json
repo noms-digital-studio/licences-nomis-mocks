@@ -4,7 +4,7 @@
     "method": "GET",
     "urlPath": "/elite2api/offender-sentences/home-detention-curfew-candidates",
     "headers": {
-      "Elite-Authorization": {
+      "Authorization": {
         "contains": "Multitoken"
       }
     }

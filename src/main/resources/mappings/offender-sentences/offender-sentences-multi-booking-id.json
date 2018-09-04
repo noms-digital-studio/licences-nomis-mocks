@@ -4,7 +4,7 @@
     "method": "POST",
     "urlPath": "/elite2api/offender-sentences/bookings",
     "headers": {
-      "Elite-Authorization": {
+      "Authorization": {
         "contains": "Multitoken"
       }
     }

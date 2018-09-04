@@ -4,18 +4,18 @@
     "url": "/elite2api/users/me",
     "headers": {
       "Authorization": {
-        "contains": "DMtoken"
+        "contains": "Batchtoken"
       }
     }
   },
   "response": {
     "status": 200,
     "jsonBody": {
-      "firstName": "User",
-      "lastName": "DM_USER",
-      "staffId": "3",
-      "email": "DM_USER@work",
-      "activeCaseLoadId": "GHI"
+      "firstName": "Batch",
+      "lastName": "Loader",
+      "staffId": "2",
+      "email": "BATCH@work",
+      "activeCaseLoadId": "DEF"
     },
     "headers": {
       "Content-Type": "application/json"

@@ -3,7 +3,7 @@
     "method": "GET",
     "url": "/elite2api/users/me/roles",
     "headers": {
-      "Elite-Authorization": {
+      "Authorization": {
         "contains": "NOMIS_BATCHtoken"
       }
     }
