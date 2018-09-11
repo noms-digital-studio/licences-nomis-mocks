@@ -17,7 +17,10 @@
         "emergencyContact": true,
         "nextOfKin": true,
         "relationshipId": 0,
-        "personId": 0
+        "personId": 0,
+        "identifiers": [
+          {"delius": "DELIUS_ID"}
+        ]
       }
     ],
     "headers": {
