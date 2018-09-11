@@ -1,0 +1,22 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/elite2api/users/NEW_USER"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "staffId": 12345,
+      "username": "NEW_USER",
+      "firstName": "New",
+      "lastName": "User",
+      "activeCaseLoadId": "ALI",
+      "lockedFlag": false,
+      "expiredFlag": false
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
