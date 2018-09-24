@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/elite2api/persons/123/identifiers"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody":[{
+        "identifierType": "EXTERNAL_REL",
+        "identifierValue": "DELIUS_ID"
+     }],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
