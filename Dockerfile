@@ -7,4 +7,4 @@ COPY src/main/resources/ /mocks/
 EXPOSE 9090
 
 ENTRYPOINT ["/usr/bin/java", "-jar", "/root/nomismocks.jar"]
-CMD ["--root-dir=/mocks", "--port=9090", "--no-request-journal", "--async-response-enabled"]
+CMD ["--root-dir=/mocks", "--port=9090", "--no-request-journal", "--async-response-enabled=true"]

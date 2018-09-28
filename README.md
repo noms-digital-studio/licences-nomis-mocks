@@ -16,7 +16,7 @@ curl http://localhost:9090/__admin/
 
 # Example request
 ```
-curl -H "Authorization: token" http://localhost:9090/api/v2/prisoners?firstName=john&lastName=smith
+curl -H "Authorization: token" http://localhost:9090/elite2api/prisoners?firstName=john&lastName=smith
 ```
 
 # To reload mappings after making changes
